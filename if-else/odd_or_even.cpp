@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
+    //Take +ve input and tell if it is odd or even.
     int a;
     cout<<"Enter a postive integer:";
     cin>>a;

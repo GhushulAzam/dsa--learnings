@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    //Take +ve input and tell if it is odd or even.
+    //Take age as input and tell whether the user is allowed to drive or not.
     int age;
     cout<<"Enter the age of the user:";
     cin>> age;
