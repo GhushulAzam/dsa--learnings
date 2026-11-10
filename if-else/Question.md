@@ -3,7 +3,7 @@
  - Taking input from user and chacking if the number is divisible by 5 or not.
  - Take an input and print the absolute value of that integer
  - Take a real number input and check if it is an integer or not.
- - 
+ - If cost price and selling price of an item is input through keyboard, write a program to determine whether the seller has made profit or incurred loss or no profit no loss. Also determine how much profit he made or loss he incurred.
  - 
  - 
  - 
