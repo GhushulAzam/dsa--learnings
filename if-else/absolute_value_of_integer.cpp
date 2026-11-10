@@ -14,7 +14,5 @@ int main(){
     // if(a<0) a*= -1;
     // cout<<a;                            
     //this method is better bcz we don have to put extra brackets and it certainly 
-    //more fast but the last method is more clean and beautifull to the eyes 
-                                            
+    //more fast but the last method is more clean and beautifull to the eyes                                            
 }
-

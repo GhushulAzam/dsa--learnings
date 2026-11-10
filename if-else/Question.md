@@ -2,7 +2,7 @@
  - Take +ve input and tell if it is odd or even.
  - Taking input from user and chacking if the number is divisible by 5 or not.
  - Take an input and print the absolute value of that integer
- - 
+ - Take a real number input and check if it is an integer or not.
  - 
  - 
  - 
