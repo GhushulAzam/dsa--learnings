@@ -2,9 +2,9 @@
 using namespace std;
 int main(){
     int a,b,c;
-    cout<<"Enter the first side of triangle:";
-    cin>> a;
-    cout<<"Enter the second side of triangle:";
+    cout<<"Enter the first side of triangle:";                                 //cout<<"enter the 3 sides:";
+    cin>> a;                                                                   //cin>> a >> b >> c ;
+    cout<<"Enter the second side of triangle:";                     
     cin>> b;
     cout<<"Enter the third side of triangle:";
     cin>> c;

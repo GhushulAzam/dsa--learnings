@@ -10,4 +10,16 @@
  - Take positive integer input and tell if it is divisible by five or three.
  - Take a positive integer and put on tell if there can be the side of a triangle or not.
  - Take 3 positive integer input and print the greatest of them.
- -  
+ - Take positive digital input and print:
+         (❁´◡`❁) alpha if number is divisible by 5 only.
+         (❁´◡`❁) beta if number is divisible by 3 only.
+         (❁´◡`❁) delta if number is divisible by 5 & 3.
+         (❁´◡`❁) gamma if number is not divisible by 5 or 3.
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 

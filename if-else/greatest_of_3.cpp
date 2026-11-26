@@ -8,10 +8,10 @@ int main(){
     cin>> b; 
     cout<<"Enter the third no:";
     cin>> c;   
-    if(a>b and a>c){
+    if(a>=b and a>=c){
         cout<<"the largest is:"<<a;
     }
-    else if(b>a and b>c){
+    else if(b>=a and b>=c){
         cout<<"the largest is:"<<b;
     }
     else{
