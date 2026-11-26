@@ -1,3 +1,4 @@
+//alpha if number is divisible by 5 only.
 //beta if number is divisible by 3 only.
 //delta if number is divisible by 5 & 3.
 //gamma if number is not divisible by 5 or 3.
