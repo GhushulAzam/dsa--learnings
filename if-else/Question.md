@@ -6,8 +6,8 @@
  - If cost price and selling price of an item is input through keyboard, write a program to determine whether the seller has made profit or incurred loss or no profit no loss. Also determine how much profit he made or loss he incurred.
  - Take length and breadth of a rectangle as input and write a program to find whether the area of rectangle is
   greater than its perimeter 
- - 
- - 
- - 
- - 
+ - Take positive integer and tell if it is four digit number or not.
+ - Take positive integer input and tell if it is divisible by five or three.
+ - Take a positive integer and put on tell if there can be the side of a triangle or not.
+ - Take 3 positive integer input and print the greatest of them.
  -  
