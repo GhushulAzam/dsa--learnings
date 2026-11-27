@@ -1,0 +1,13 @@
+ - print the numbers from 1 to 100.
+ - Print all even numbers from 1 to 100.
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
