@@ -1,6 +1,5 @@
 // Given a point (x,y), write a program to find out if it lies in 1st quadrant, 2nd quadrant, 
 //   3rd quadrant,  4th quadrant, on the x-axis, y-axis or at the origin.
-
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
