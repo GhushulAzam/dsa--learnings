@@ -3,7 +3,9 @@
  - Taking input from user and chacking if the number is divisible by 5 or not.
  - Take an input and print the absolute value of that integer
  - Take a real number input and check if it is an integer or not.
- - If cost price and selling price of an item is input through keyboard, write a program to determine whether the seller has made profit or incurred loss or no profit no loss. Also determine how much profit he made or loss he incurred.
+ - If cost price and selling price of an item is input through keyboard, write a program to determine 
+    whether  the seller has made profit or incurred loss or no profit no loss. Also determine how much 
+    profit he made or loss he incurred.
  - Take length and breadth of a rectangle as input and write a program to find whether the area of rectangle is
   greater than its perimeter 
  - Take positive integer and tell if it is four digit number or not.
@@ -15,11 +17,12 @@
          (❁´◡`❁) beta if number is divisible by 3 only.
          (❁´◡`❁) delta if number is divisible by 5 & 3.
          (❁´◡`❁) gamma if number is not divisible by 5 or 3.
+ - Given a point (x,y), write a program to find out if it lies in 1st quadrant, 2nd quadrant, 3rd quadrant, 
+    4th quadrant, on the x-axis, y-axis or at the origin.
+ - Find the least from the 3 number using nested loops. 
  - 
  - 
  - 
- - 
- - 
- - 
+ -
  - 
  - 
